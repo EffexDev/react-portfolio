@@ -1,0 +1,17 @@
+img {
+  height: 100px
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.MuiContainer-root {
+  height: 100vh;
+}
+
+.socials {
+  scale: 30%;
+  padding: 0px;
+}
